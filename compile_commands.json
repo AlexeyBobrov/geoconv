@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/Users/aleksejbobrov/project/appl/geoconv/build",
+  "command": "/opt/local/bin/clang++-mp-5.0  -DBOOST_TEST_DYN_LINK -I/Users/aleksejbobrov/project/appl/geoconv/build -I/Users/aleksejbobrov/project/appl/geoconv/inc -I/Users/aleksejbobrov/project/appl/geoconv/test -I/opt/local/include  -std=c++14 -stdlib=libc++ -Wall -Wextra   -o CMakeFiles/geoconv_test.dir/src/convert.cpp.o -c /Users/aleksejbobrov/project/appl/geoconv/src/convert.cpp",
+  "file": "/Users/aleksejbobrov/project/appl/geoconv/src/convert.cpp"
+},
+{
+  "directory": "/Users/aleksejbobrov/project/appl/geoconv/build",
+  "command": "/opt/local/bin/clang++-mp-5.0  -DBOOST_TEST_DYN_LINK -I/Users/aleksejbobrov/project/appl/geoconv/build -I/Users/aleksejbobrov/project/appl/geoconv/inc -I/Users/aleksejbobrov/project/appl/geoconv/test -I/opt/local/include  -std=c++14 -stdlib=libc++ -Wall -Wextra   -o CMakeFiles/geoconv_test.dir/src/utils/parse_cmd.cpp.o -c /Users/aleksejbobrov/project/appl/geoconv/src/utils/parse_cmd.cpp",
+  "file": "/Users/aleksejbobrov/project/appl/geoconv/src/utils/parse_cmd.cpp"
+},
+{
+  "directory": "/Users/aleksejbobrov/project/appl/geoconv/build",
+  "command": "/opt/local/bin/clang++-mp-5.0  -DBOOST_TEST_DYN_LINK -I/Users/aleksejbobrov/project/appl/geoconv/build -I/Users/aleksejbobrov/project/appl/geoconv/inc -I/Users/aleksejbobrov/project/appl/geoconv/test -I/opt/local/include  -std=c++14 -stdlib=libc++ -Wall -Wextra   -o CMakeFiles/geoconv_test.dir/src/types.cpp.o -c /Users/aleksejbobrov/project/appl/geoconv/src/types.cpp",
+  "file": "/Users/aleksejbobrov/project/appl/geoconv/src/types.cpp"
+},
+{
+  "directory": "/Users/aleksejbobrov/project/appl/geoconv/build",
+  "command": "/opt/local/bin/clang++-mp-5.0  -DBOOST_TEST_DYN_LINK -I/Users/aleksejbobrov/project/appl/geoconv/build -I/Users/aleksejbobrov/project/appl/geoconv/inc -I/Users/aleksejbobrov/project/appl/geoconv/test -I/opt/local/include  -std=c++14 -stdlib=libc++ -Wall -Wextra   -o CMakeFiles/geoconv_test.dir/test/test_geoconv.cpp.o -c /Users/aleksejbobrov/project/appl/geoconv/test/test_geoconv.cpp",
+  "file": "/Users/aleksejbobrov/project/appl/geoconv/test/test_geoconv.cpp"
+},
+{
+  "directory": "/Users/aleksejbobrov/project/appl/geoconv/build",
+  "command": "/opt/local/bin/clang++-mp-5.0  -DBOOST_TEST_DYN_LINK -I/Users/aleksejbobrov/project/appl/geoconv/build -I/Users/aleksejbobrov/project/appl/geoconv/inc -I/Users/aleksejbobrov/project/appl/geoconv/test -I/opt/local/include  -std=c++14 -stdlib=libc++ -Wall -Wextra   -o CMakeFiles/geoconv_test.dir/test/test_dataset.cpp.o -c /Users/aleksejbobrov/project/appl/geoconv/test/test_dataset.cpp",
+  "file": "/Users/aleksejbobrov/project/appl/geoconv/test/test_dataset.cpp"
+},
+{
+  "directory": "/Users/aleksejbobrov/project/appl/geoconv/build",
+  "command": "/opt/local/bin/clang++-mp-5.0  -DBOOST_TEST_DYN_LINK -I/Users/aleksejbobrov/project/appl/geoconv/build -I/Users/aleksejbobrov/project/appl/geoconv/inc -I/Users/aleksejbobrov/project/appl/geoconv/test -I/opt/local/include  -std=c++14 -stdlib=libc++ -Wall -Wextra   -o CMakeFiles/geoconv_test.dir/test/test_main.cpp.o -c /Users/aleksejbobrov/project/appl/geoconv/test/test_main.cpp",
+  "file": "/Users/aleksejbobrov/project/appl/geoconv/test/test_main.cpp"
+},
+{
+  "directory": "/Users/aleksejbobrov/project/appl/geoconv/build",
+  "command": "/opt/local/bin/clang++-mp-5.0  -DBOOST_TEST_DYN_LINK -I/Users/aleksejbobrov/project/appl/geoconv/build -I/Users/aleksejbobrov/project/appl/geoconv/inc -I/Users/aleksejbobrov/project/appl/geoconv/test -I/opt/local/include  -std=c++14 -stdlib=libc++ -Wall -Wextra   -o CMakeFiles/geoconv.dir/src/convert.cpp.o -c /Users/aleksejbobrov/project/appl/geoconv/src/convert.cpp",
+  "file": "/Users/aleksejbobrov/project/appl/geoconv/src/convert.cpp"
+},
+{
+  "directory": "/Users/aleksejbobrov/project/appl/geoconv/build",
+  "command": "/opt/local/bin/clang++-mp-5.0  -DBOOST_TEST_DYN_LINK -I/Users/aleksejbobrov/project/appl/geoconv/build -I/Users/aleksejbobrov/project/appl/geoconv/inc -I/Users/aleksejbobrov/project/appl/geoconv/test -I/opt/local/include  -std=c++14 -stdlib=libc++ -Wall -Wextra   -o CMakeFiles/geoconv.dir/src/utils/parse_cmd.cpp.o -c /Users/aleksejbobrov/project/appl/geoconv/src/utils/parse_cmd.cpp",
+  "file": "/Users/aleksejbobrov/project/appl/geoconv/src/utils/parse_cmd.cpp"
+},
+{
+  "directory": "/Users/aleksejbobrov/project/appl/geoconv/build",
+  "command": "/opt/local/bin/clang++-mp-5.0  -DBOOST_TEST_DYN_LINK -I/Users/aleksejbobrov/project/appl/geoconv/build -I/Users/aleksejbobrov/project/appl/geoconv/inc -I/Users/aleksejbobrov/project/appl/geoconv/test -I/opt/local/include  -std=c++14 -stdlib=libc++ -Wall -Wextra   -o CMakeFiles/geoconv.dir/src/types.cpp.o -c /Users/aleksejbobrov/project/appl/geoconv/src/types.cpp",
+  "file": "/Users/aleksejbobrov/project/appl/geoconv/src/types.cpp"
+},
+{
+  "directory": "/Users/aleksejbobrov/project/appl/geoconv/build",
+  "command": "/opt/local/bin/clang++-mp-5.0  -DBOOST_TEST_DYN_LINK -I/Users/aleksejbobrov/project/appl/geoconv/build -I/Users/aleksejbobrov/project/appl/geoconv/inc -I/Users/aleksejbobrov/project/appl/geoconv/test -I/opt/local/include  -std=c++14 -stdlib=libc++ -Wall -Wextra   -o CMakeFiles/geoconv.dir/src/main.cpp.o -c /Users/aleksejbobrov/project/appl/geoconv/src/main.cpp",
+  "file": "/Users/aleksejbobrov/project/appl/geoconv/src/main.cpp"
+}
+]

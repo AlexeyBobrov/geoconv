@@ -1,0 +1,45 @@
+/** @file geoconv_version.h
+ *  @brief The define the module geoconv_version
+ *  @author Bobrov A.E.
+ *  @date 19.09.2017
+ */
+#ifndef GEOCONV_GEOCONV_VERSION_H_
+#define GEOCONV_GEOCONV_VERSION_H_
+
+// std
+#include <string>
+
+namespace geoconv
+{
+namespace version
+{
+inline int getMajor()
+{
+  return @MAJOR@;
+}
+
+inline int getMinor()
+{
+  return @MINOR@;
+}
+
+inline int getBuild()
+{
+  return @BUILD@;
+}
+
+inline std::string getProjectName()
+{
+  return "@ProjectName@";
+}
+
+inline std::string getText()
+{
+  return "@ProjectName@ v.@MAJOR@.@MINOR@.@BUILD@";
+}
+
+}
+}
+
+
+#endif
